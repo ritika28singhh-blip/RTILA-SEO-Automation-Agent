@@ -67,49 +67,16 @@ This RTILA automation workflow streamlines the verification process by automatic
 
 ---
 
+
 # ⚙️ Workflow
 
-```text
-                ┌────────────────────┐
-                │  Target URL Input  │
-                └─────────┬──────────┘
-                          │
-                          ▼
-              ┌──────────────────────┐
-              │ Read Keywords Dataset │
-              └─────────┬────────────┘
-                        │
-                        ▼
-          ┌────────────────────────────┐
-          │ Launch Chrome (Incognito)  │
-          └─────────┬──────────────────┘
-                    │
-                    ▼
-          ┌────────────────────────────┐
-          │ Open google.co.in          │
-          └─────────┬──────────────────┘
-                    │
-                    ▼
-          ┌────────────────────────────┐
-          │ Search Next Keyword        │
-          └─────────┬──────────────────┘
-                    │
-                    ▼
-        ┌──────────────────────────────┐
-        │ Check if Target URL Exists   │
-        └───────┬───────────┬──────────┘
-                │Yes        │No
-                ▼           ▼
-      Capture Screenshot   Continue
-                │
-                ▼
-        Next Keyword
-                │
-                ▼
-             Finished
-```
+![Workflow](Workflow.png)
 
 ---
+
+# 🏗️ System Architecture
+
+![Architecture](System Architecture.png)
 
 # 🛠 Technologies Used
 
