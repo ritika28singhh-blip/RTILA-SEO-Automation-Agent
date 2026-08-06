@@ -76,7 +76,9 @@ This RTILA automation workflow streamlines the verification process by automatic
 
 # 🏗️ System Architecture
 
-![Architecture](System Architecture.png)
+<p align="center">
+  <img src="System Architecture.png" alt="System Architecture" width="900"/>
+</p>
 
 # 🛠 Technologies Used
 
@@ -91,28 +93,6 @@ This RTILA automation workflow streamlines the verification process by automatic
 
 ---
 
-# 📂 Repository Structure
-
-```
-RTILA-SEO-Automation-Agent/
-
-│── assets/
-│     ├── demo.mp4
-│     ├── screenshot1.png
-│     ├── screenshot2.png
-│     ├── screenshot3.png
-│     ├── screenshot4.png
-│
-│── sample_data/
-│     ├── keywords.txt
-│     └── url.txt
-│
-│── README.md
-│── LICENSE
-│── .gitignore
-```
-
----
 
 # 📄 Sample Input
 
