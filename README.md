@@ -1,4 +1,4 @@
-<div align="center">
+<img width="1912" height="1018" alt="Screen Recording 2026-07-29 003709" src="https://github.com/user-attachments/assets/8fdc7c0b-8ccf-476e-9398-e296ce2c3223" /><div align="center">
 
 # 🤖 RTILA SEO Automation Agent
 
@@ -164,43 +164,34 @@ pixel screen repair baner
 
 ## Search Result 1
 
-![Search Result 1](assets/screenshot1.png)
+![Search Result 1](1.png)
 
 ---
 
 ## Search Result 2
 
-![Search Result 2](assets/screenshot2.png)
+![Search Result 2](2.png)
 
 ---
 
 ## Search Result 3
 
-![Search Result 3](assets/screenshot3.png)
+![Search Result 3](3.png)
 
 ---
 
 ## Search Result 4
 
-![Search Result 4](assets/screenshot4.png)
+![Search Result 4](4.png)
 
 ---
 
-# 🎥 Demo
 
-Upload the screen recording inside the **assets** folder.
+## 🎥 Live Demo
 
-Then embed it like this:
-
-```
-assets/demo.mp4
-```
-
-or upload the video to YouTube and add
-
-```
-https://youtu.be/YOUR_VIDEO_LINK
-```
+<p align="center">
+  <img src="Screen Recording 2026-07-29 003709.gif" alt="RTILA SEO Automation Demo" width="900">
+</p>
 
 ---
 
