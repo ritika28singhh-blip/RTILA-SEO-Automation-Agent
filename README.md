@@ -16,6 +16,12 @@ Automating Google Search verification for Digital Marketing using **RTILA X**.
 
 </div>
 
+## 🎥 Live Demo
+
+<img src="Screen Recording 2026-07-29 003709.gif" width="900"/>
+
+</div>
+
 # 📌 Project Overview
 
 This project was developed during my **Digital Marketing & Agentic AI Internship** to automate Google Search verification for SEO monitoring.
@@ -162,37 +168,13 @@ pixel screen repair baner
 
 # 📸 Automation Results
 
-## Search Result 1
+| Search Result 1 | Search Result 2 |
+|-----------------|-----------------|
+| ![](1.png) | ![](2.png) |
 
-![Search Result 1](1.png)
-
----
-
-## Search Result 2
-
-![Search Result 2](2.png)
-
----
-
-## Search Result 3
-
-![Search Result 3](3.png)
-
----
-
-## Search Result 4
-
-![Search Result 4](4.png)
-
----
-
-
-## 🎥 Live Demo
-
-<p align="center">
-  <img src="Screen Recording 2026-07-29 003709.gif" alt="RTILA SEO Automation Demo" width="900">
-</p>
-
+| Search Result 3 | Search Result 4 |
+|-----------------|-----------------|
+| ![](3.png) | ![](4.png) |
 ---
 
 # 💼 Business Impact
@@ -229,29 +211,6 @@ This automation significantly reduces the manual effort required for SEO ranking
 - Multi-search engine support
 - Playwright/Python integration
 
----
-
-# 💡 Internship Learning
-
-During this project, I gained hands-on experience with:
-
-- Browser Automation
-- RTILA X
-- Digital Marketing Workflows
-- SEO Verification
-- Google Search Automation
-- Workflow Design
-- Automation Debugging
-- Agentic Automation Concepts
-
----
-
-# 📈 Resume Highlights
-
-- Developed an automation workflow using **RTILA X 8.3.12** to automate Google Search ranking verification.
-- Automated browser interactions including keyword search, URL verification, and screenshot capture.
-- Reduced repetitive manual SEO verification through workflow automation.
-- Processed multiple search keywords using external datasets.
 
 ---
 
@@ -263,10 +222,14 @@ Final Year B.Tech Electronics & Telecommunication Engineering
 
 Pimpri Chinchwad College of Engineering (PCCOE)
 
-GitHub: https://github.com/ritika28singhh-blip
+GitHub: [ritika28singhh-blip](https://github.com/ritika28singhh-blip)
 
 ---
 
 # ⭐ If you found this project interesting
 
 Please consider giving it a ⭐ on GitHub.
+
+# 📌 Note
+
+This repository documents the automation workflow developed during my internship. Due to organizational restrictions, the original RTILA project files are not included. The repository contains project documentation, sample input files, screenshots, and a demonstration of the workflow.
